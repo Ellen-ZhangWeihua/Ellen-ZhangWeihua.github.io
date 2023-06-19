@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "个人履历 Curriculum Vitae"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+张卫华，女，博士，三级研究员。2005年毕业于中国农业大学生物学院生化与分子生物学专业，现任现任山东省农业科学院蔬菜研究所植保团队负责人。主要研究领域为蔬菜栽培和蔬菜病虫害防控，先后主持、参加国家和省部级课题20余项。其中包括："863"计划，国家"973"，国家行业专项，国家重点研发项目，山东省重大研发项目等。目前聚焦于利用生防菌进行蔬菜抗逆性提高、蔬菜病虫害的防控应用及机理方面的研究。提出基于土壤处理、种子消毒、有机肥替代、补充中微量元素和有益微生物、调整大量元素的施用比例和使用量、水肥一体化精准肥水集成的蔬菜绿色防控技术，效果显著，于2019年获国家主推技术。
+获省部级科技奖励3项，其中山东省科技进步一等奖1项、二等奖2项、出版著作5部，其中主编2部；发表论文70余篇（SCI收录8篇）；获首位授权的发明专利5项，制定省级级以上标准7项，其中首位制定并发布实施山东省地方标准2项，第二位参与制定行业标准2项，参与制定山东省地方标准3项。
 
 A data-driven personal website
 ======
