@@ -33,72 +33,73 @@ redirect_from:
 受<b>农业农村部</b>委托至美洲巴巴多斯开展中国蔬菜种植技术的培训和推广；<br>
 2021&nbsp;&nbsp;&nbsp;&nbsp;
 受<b>农业农村部</b>委派，采用线上培训的方式对南亚澜湄国家开展“澜湄地区蔬菜高效生产和病虫害绿色防治”培训。<br><br>
+
 <h1>项目经历 Project Experience</h1>
 <p style="text-align:left;">
-    1. &nbsp;<b> 科技部 重点研发项目</b> [2018YFD0201207]：露地蔬菜化肥农药减施技术集成研究与示范，参加，子课题主持；  
+    1. &nbsp;<b> 科技部重点研发项目</b>[2018YFD0201207]：露地蔬菜化肥农药减施技术集成研究与示范<br>参加，子课题主持；  
     <span style="float:right;">
         2018.07-2020.12
     </span>
 </p>
 
 <p style="text-align:left;">
-    2. &nbsp;<b> 农业部 公益性行业专项</b> [201303028]：蔬菜主要病毒病防控技术研究与示范，参加，子课题主持； 
+    2. &nbsp;<b> 农业部公益性行业专项</b>[201303028]：蔬菜主要病毒病防控技术研究与示范<br>参加，子课题主持； 
     <span style="float:right;">
         2013.01-2017.12
     </span>
 </p>
 
 <p style="text-align:left;">
-    3. &nbsp; 山东省科技厅 科技发展项目：蔬菜病毒病快速诊断技术研究及应用，<b>主持</b>；
+    3. &nbsp; 山东省科技厅科技发展项目：蔬菜病毒病快速诊断技术研究及应用<br><b>主持项目</b>；
     <span style="float:right;">
         2014.09-2017.09
     </span>
 </p>
 
 <p style="text-align:left;">
-    4. &nbsp; 山东省农业厅 农业重大应用技术创新项目：设施蔬菜根结线虫生态防控关键技术集成与应用，<b>主持</b>；
+    4. &nbsp; 山东省农业厅农业重大技术创新项目：设施蔬菜根结线虫生态防控关键技术集成与应用<br><b>主持项目</b>；
     <span style="float:right;">
         2015.05-2017.04
     </span>
 </p>
 
 <p style="text-align:left;">
-    5. &nbsp; 山东省科技厅 园区提升项目 [2019YQ023]：沂南县主栽蔬菜提质增效及产业化示范，<b>主持</b>；
+    5. &nbsp; 山东省科技厅园区提升项目[2019YQ023]：沂南县主栽蔬菜提质增效及产业化示范<br><b>主持</b>；
     <span style="float:right;">
         2019.08-2022.07
     </span>
 </p>
 
 <p style="text-align:left;">
-    6. &nbsp; 山东省科技厅 鲁渝科技协作项目 [2019LYXZ029]：蔬菜生态高效越夏栽培技术体系建立与应用，参与，子课题主持；
+    6. &nbsp; 山东省科技厅鲁渝科技协作项目[2019LYXZ029]：蔬菜生态高效越夏栽培技术体系建立与应用<br>参与，子课题主持；
     <span style="float:right;">
         2019.10-2021.09
     </span>
 </p>
 
 <p style="text-align:left;">
-    7. &nbsp; 山东省科技厅 园区提升项目 [2019YQ023]：苍山大蒜标准化生产关键技术示范与应用，参与，子课题主持；
+    7. &nbsp; 山东省科技厅园区提升项目[2019YQ023]：苍山大蒜标准化生产关键技术示范与应用<br>参与，子课题主持；
     <span style="float:right;">
         2019.08-2022.07
     </span>
 </p>
 
 <p style="text-align:left;">
-    8. &nbsp; 山东省科技厅 重点研发计划：菜田与果园土壤修复成套技术研究与示范，参与，子课题主持；
+    8. &nbsp; 山东省科技厅重点研发计划：菜田与果园土壤修复成套技术研究与示范<br>参与，子课题主持；
     <span style="float:right;">
         2021-2024
     </span>
 </p>
 
 <p style="text-align:left;">
-    9. &nbsp; 山东省农业厅 农业重大协同推广项目：葱姜蒜绿色高效关键技术推广，<b>技术首席</b>。
+    9. &nbsp; 山东省农业厅农业重大协同推广项目：葱姜蒜绿色高效关键技术推广<br><b>技术首席</b>。
     <span style="float:right;">
         2022-2023
     </span>
 </p>
 
 <p style="text-align:left;">
-    10.&nbsp;<b>新疆维吾尔自治区2022年重点研发项目</b> [2022B02032]：设施蔬菜种苗智能化高质量繁育关键技术研发，<b>主持</b>。
+    10.&nbsp;<b>新疆维吾尔自治区重点研发项目</b> [2022B02032]：设施蔬菜种苗智能化高质量繁育关键技术研发<br><b>主持</b>。
     <span style="float:right;">
         2022-2025
     </span>
@@ -120,9 +121,9 @@ redirect_from:
     }
     
     .image-container img {
-      width: 150px; /* 调整图片的宽度 */
+      width: 140px; /* 调整图片的宽度 */
       height: 200px; /* 调整图片的高度 */
-      margin: 20px; /* 调整图片之间的间距 */
+      margin: 10px; /* 调整图片之间的间距 */
     }
   </style>
 </head>
@@ -137,48 +138,19 @@ redirect_from:
 <br>
 
 <h2>学术论文 Academic Papers</h2>
-
-<p style="text-align:left;">
-    1. &nbsp; 通讯作者：First Report of Leaf Spot Caused by Fusarium equiseti on Switchgrass in Shandong, China, Plant Disease.
-    <span style="float:right;">
-        2020
-    </span>
-</p>
-
+1. &nbsp; 通讯作者：First Report of Leaf Spot Caused by Fusarium equiseti on Switchgrass in Shandong, China, Plant Disease. 2020.<br>
+2. &nbsp; 通讯作者：Transcriptome profiling analysis reveals distinct resistant response of cucumber leaves infected with powdery mildew, Plant Biology. 2020.<br>
+3. &nbsp; 第一作者：First Report of Leaf and Stem Spot on Common Bean Caused by Stemphylium lycopersici in China, Plant Disease. 2020.<br>
+4. &nbsp; 通讯作者：First Report of Leaf Spot on Cucumber Caused by Fusarium incarnatum in China, Plant Disease. 2022.<br>
+5. &nbsp; 第二作者：Effect of ammonia fiber expansion combined with NaOH pretreatment on resource efficiency of herbaceous and woody lignocellulosic biomass, ACS Omega. 2022.<br>
+6. &nbsp; 通讯作者：First Report of Soft Rot of Ginger Caused by Rhizopus oryzae in Shandong Province, China. Plant Disease. 2023.<br>
+<!-- 
 <p style="text-align:left;">
     2. &nbsp; 通讯作者：Transcriptome profiling analysis reveals distinct resistant response of cucumber leaves infected with powdery mildew, Plant Biology.
     <span style="float:right;">
         2020
     </span>
-</p>
-
-<p style="text-align:left;">
-    3. &nbsp; 第一作者：First Report of Leaf and Stem Spot on Common Bean Caused by Stemphylium lycopersici in China, Plant Disease. 
-    <span style="float:right;">
-        2020
-    </span>
-</p>
-
-<p style="text-align:left;">
-    4. &nbsp; 通讯作者：First Report of Leaf Spot on Cucumber Caused by Fusarium incarnatum in China, Plant Disease.
-    <span style="float:right;">
-        2020
-    </span>
-</p>
-
-<p style="text-align:left;">
-    5. &nbsp; 第二作者：Effect of ammonia fiber expansion combined with NaOH pretreatment on resource efficiency of herbaceous and woody lignocellulosic biomass, ACS Omega.
-    <span style="float:right;">
-        2022
-    </span>
-</p>
-
-<p style="text-align:left;">
-    6. &nbsp; 通讯作者：First Report of Soft Rot of Ginger Caused by Rhizopus oryzae in Shandong Province, China. Plant Disease.
-    <span style="float:right;">
-        2023
-    </span>
-</p>
+</p> -->
 ...<br>
 更多发表详见[Publications]板块。<br>
 <br>
