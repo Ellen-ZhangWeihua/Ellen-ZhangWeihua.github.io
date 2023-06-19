@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+**此页面尚未开发完成，敬请期待...**
 {% include base_path %}
 
 Education

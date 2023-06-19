@@ -82,24 +82,24 @@ analytics:
 # Site Author
 author:
   name             : "张卫华 Zhang Weihua"
-  avatar           : "ellen_zhang.png"
-  bio              : "Dr. Zhang Weihua 张卫华博士\n
-                      单位：山东省农业科学院\n
-                      职称：三级研究员\n
-                      毕业院校：中国农业大学\n
-                      专业：生化与分子生物学\n
-                      研究方向：植物保护\n
-                      蔬菜花卉研究所植保团队负责人\n
-                      北卡罗莱纳州立大学访问学者\n
-                      山东农业大学硕士生导师\n
-                      山东农业工程学院客座教授\n
-                      山东农业工程学会常务理事\n
-                      山东植物病理学会理事\n
-                      \n
-                      Wechat: A1684437996\n
-                      "
+  avatar           : "profile_ellen.png"
+  bio              :  |
+                      Dr. Zhang Weihua 张卫华博士
+                      单位：山东省农业科学院
+                      职称：三级研究员
+                      毕业院校：中国农业大学
+                      专业：生化与分子生物学
+                      研究方向：植物保护
+                      蔬菜花卉研究所植保团队负责人
+                      北卡罗莱纳州立大学访问学者
+                      山东农业大学硕士生导师   
+                      山东农业工程学院客座教授   
+                      山东农业工程学会常务理事  
+                      山东植物病理学会理事<br>
+                      Wechat: A1684437996
+                      
   location         : "山东 济南"
-  employer         : "http://www.sdvegetables.cn/index/talent/index?id=65"
+  employer         : # "http://www.sdvegetables.cn/index/talent/index?id=65"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Zhang+Weihua"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "zhwh70@126.com"
