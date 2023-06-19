@@ -13,19 +13,18 @@ redirect_from:
 
 <p style="text-indent:2em">获省部级科技奖励3项，其中山东省科技进步一等奖1项、二等奖2项、出版著作5部，其中主编2部；发表论文70余篇其中SCI收录8篇；获首位授权的发明专利5项，制定省级级以上标准7项，其中首位制定并发布实施的山东省地方标准2项，第二位参与制定行业标准2项，参与制定山东省地方标准3项。<br>
 
-教育经历 Education Experience
-=============================
+<h1>教育经历 Education Experience</h1>
 1990.09-1994.07 山东农业大学园艺系蔬菜专业，学士学位；<br>
 1994.09-1997.07 山东农业大学园艺系蔬菜专业，硕士学位；<br>
 2002.09-2005.12 中国农业大学生化与分子生物学专业，博士学位；<br>
 2012.09-2013.09 美国北卡罗莱纳州立大学，访问学者。<br>
+<br>
 
-工作经历 Work Experience
-========================
+<h1>工作经历 Work Experience</h1>
+
 <p style="text-indent:2em">1997年于山东农业大学园艺系蔬菜专业硕士毕业后到山东省农业科学院蔬菜研究所工作至今，主要从事植物病毒学研究。于2001年晋升助理研究员，2006年晋升副研究员并担任山东省农业科学院蔬菜花卉研究所栽培植保室副主任，2012年晋升研究员，任蔬菜植保团队负责人，2021年晋升<b>三级研究员</b>，<b>任蔬菜植保团队负责人</b>。<br>
 
-海外经历 Overseas Experience
-============================
+<h1>海外经历 Overseas Experience</h1>
 2009&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;单位外派至波兰波兹南农业大学短期访问；<br>
 2012&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;美国北卡来罗纳州立大学访问学者，从事蔬菜的栽培和病虫害防控研究；<br>
 2017&nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,10 +32,8 @@ redirect_from:
 2018&nbsp;&nbsp;&nbsp;&nbsp;
 受<b>农业农村部</b>委托至美洲巴巴多斯开展中国蔬菜种植技术的培训和推广；<br>
 2021&nbsp;&nbsp;&nbsp;&nbsp;
-受<b>农业农村部</b>委派，采用线上培训的方式对南亚澜湄国家开展“澜湄地区蔬菜高效生产和病虫害绿色防治”培训。<br>
-
-项目经历 Project Experience
-===========================
+受<b>农业农村部</b>委派，采用线上培训的方式对南亚澜湄国家开展“澜湄地区蔬菜高效生产和病虫害绿色防治”培训。<br><br>
+<h1>项目经历 Project Experience</h1>
 <p style="text-align:left;">
     1. &nbsp;<b> 科技部 重点研发项目</b> [2018YFD0201207]：露地蔬菜化肥农药减施技术集成研究与示范，参加，子课题主持；  
     <span style="float:right;">
@@ -107,10 +104,9 @@ redirect_from:
     </span>
 </p>
 
-学术发表 Publications
-=====================
-著作 Books
----------------------
+<h1>学术发表 Publications</h1>
+<h2>著作 Books</h2>
+
 1.&nbsp; 主编：《黄瓜栽培新技术与实例》；<br>
 2.&nbsp; 副主编：《黄瓜病虫害检索诊断与防治图谱》；<br>
 3.&nbsp; 编著：《出口黄瓜安全生产技术》；<br>
@@ -124,7 +120,7 @@ redirect_from:
     }
     
     .image-container img {
-      width: 100px; /* 调整图片的宽度 */
+      width: 150px; /* 调整图片的宽度 */
       height: 200px; /* 调整图片的高度 */
       margin: 20px; /* 调整图片之间的间距 */
     }
@@ -140,8 +136,8 @@ redirect_from:
 </body>
 <br>
 
-学术论文 Academic Papers
-------------------------
+<h2>学术论文 Academic Papers</h2>
+
 <p style="text-align:left;">
     1. &nbsp; 通讯作者：First Report of Leaf Spot Caused by Fusarium equiseti on Switchgrass in Shandong, China, Plant Disease.
     <span style="float:right;">
@@ -187,7 +183,7 @@ redirect_from:
 更多发表详见[Publications]板块。<br>
 <br>
 
-#其他 Additional information
-============================
+<h1>其他 Additional Information</h1>
+
 <p style="text-indent:2em">张卫华博士的课题组学术底蕴扎实，组内氛围好，欢迎对于蔬菜栽培和蔬菜病虫害防控方向感兴趣的本科生、硕士生加入组内实习、读研。同时欢迎相关专业领域的博士生加入课题组开展研究工作。课题组首页为：<a href="http://www.sdvegetables.cn/index/talent/index?id=65">蔬菜病虫害绿色防控团队</a>，如有兴趣可发送简历至邮箱<a href="mailto:zhwh70@126.com">zhwh70@126.com</a>，期待你的加入。
 
